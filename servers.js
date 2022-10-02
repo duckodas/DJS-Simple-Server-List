@@ -16,9 +16,9 @@ module.exports = {
    * @param {CommandInteraction} interaction
    */
   async execute(interaction, client) {
-    var list = "";
+    const list = "";
     client.guilds.cache.forEach((guild) => {
-      list += `${guild.name} (${guild.id}) | ${guild.memberCount} members | Owner: ${guild.ownerId}\n`;
+      list += `${guild.name} (${guild.id}) | ${guild.memberCount} Members | Owner: ${guild.ownerId}\n`;
     });
 
     sourcebin
