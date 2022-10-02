@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Ducko's DJS Ticket System V14</h1>
-<h3 align="center">System made with 💖 by Ducko#7068</h3>
+<h1 align="center">Welcome to Ducko's DJS Server List V14</h1>
+<h3 align="center">Command made with 💖 by Ducko#7068</h3>
 
 <div align="center">
 
