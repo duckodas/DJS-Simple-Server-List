@@ -6,7 +6,6 @@ const {
 const sourcebin = require("sourcebin_js");
 
 module.exports = {
-  cooldown: 10,
   data: new SlashCommandBuilder()
     .setName("servers")
     .setDescription("servers")
@@ -25,7 +24,7 @@ module.exports = {
     sourcebin
       .create([
         {
-          name: `Code by ${interaction.user.tag}`,
+          name: `Code by Ducko#7068`,
           content: list,
           languageId: "js",
         },
