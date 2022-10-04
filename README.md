@@ -17,7 +17,7 @@
 
 ## **Dependencies:**
 - sourcebin_js
-- discord.js@14.3.0
+- discord.js@14.3.0 or higher
 
 ## **Screenshots:**
 ![Image](https://media.discordapp.net/attachments/861428567538532362/1026237875680968776/chrome_2Lpx3iVCDn.png)
